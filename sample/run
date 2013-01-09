@@ -1,0 +1,1 @@
+g++ -I $BOOST extractor.hpp test.cpp -L$BOOST_LIB -o test -lboost_regex

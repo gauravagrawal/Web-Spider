@@ -1,0 +1,1 @@
+g++ curl.cpp -o c -L/usr/local/lib/ -lcurlpp -I/usr/local/include/ -lcurlpp -lcurl 

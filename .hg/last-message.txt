@@ -1,0 +1,1 @@
+alpha version of spider. Has to add the functionality where it should remain in the specific domain only.

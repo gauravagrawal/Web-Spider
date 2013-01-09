@@ -1,0 +1,53 @@
+﻿<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Vineet Sahu</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="header">
+	<h1><font size ="7" style="text-transform: capitalize;">Vineet Sahu</font></h1>
+	
+</div>
+<div id="menu">
+	<ul>
+		<li class="first"><a href="index.html">Home</a></li>
+		<li><a href="courses.html" title ="Courses Taken">Courses Taken</a></li>
+		<li><a href="Resume.html" title="Cv/Resume">Resume</a></li>
+		<li><a href="contact.html" title="Contact Info">Contact</a></li>
+	</ul>
+</div>
+<div id="page">
+	<div id="page-top">
+		<div id="page-bottom">
+		<div>
+			
+			<div >
+				<h2>Welcome To My Website</h2>
+<br />
+
+I am pursuing my Masters in Computer Science at Florida State University.I completed my Undergraduate from Shri Vaishnav Institute of Technology and Science , India. <br /><br />
+
+I am currently working as a intern at Convergys Corporation Lake Mary FL. Convergys is leading relationship management company.Convergys provides solutions
+that optimize the everyday interactions between customers and employees. I am working on the Test Cases of a software at Convergys. The Code base is in Java. <br /><br />
+
+During my MS I was working as Technical Support Assistant at Learning Systems Institute for 7 months. There I gained experience of troubshooting hardware as well as software problems in PCs as well MACs. I also learned troubleshooting other electronic equipments such as printers , faxsimiles etc..  <br /><br />
+
+I was also working as a Graduate Assistant in Teaching at Florida State University in the Computer Science Department.<br /><br />
+
+    
+
+			</div>
+		</div>
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+</div>
+<div id="footer">
+	<p>Thanks for visiting my website.<br/>
+        This website is designed and maintained by Vineet Sahu. Ph:850-566-1354 email: sahu[at]cs.fsu.edu </p>
+
+</div>
+</body>
+</html>

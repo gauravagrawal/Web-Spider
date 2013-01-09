@@ -1,0 +1,182 @@
+
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+<meta name="google-site-verification" content="XLOEzvCFuQ5uLJEWnp6-poOt4SV8nhXIq4dcVUwQyzM" />
+        <title>FSU Computer Science</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<!-- tag for google webmaster tool verification. Do not remove -->
+		<meta name="verify-v1" content="at8olH/Pp/a2X/dr2MyTInZUlcRmaHX7FP8Uzx3O9pg=" />
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="/site/rss.php" />
+<style type="text/css">
+	@import "css/global.css";
+	@import "css/index.css";
+</style>
+	</head>
+	<body onload="preloadImages();">
+		<script type="text/javascript" src="/script/preload.js"></script>
+		<div id="main">
+			<div id="header">
+				<div id="cslogo"><a href="/index.php"><img src="/~wingfiel/images/cs_mini.gif" width="151" height="23" alt="FSU Computer Science" border="0" /></a></div>
+					<div id="minilinks"><a href="/site/help.php">Help</a> | 
+											<a href="https://www.cs.fsu.edu/admin/login.php">Login</a> 
+										| <a href="/site/contact.php">Contact</a> | <a href="/site/sitemap.php">Site Map</a>
+				</div>
+			</div>
+			<h1><img src="images/cs.gif" width="760" height="50" alt="FSU Computer Science" /></h1>
+			<div id="body">
+				<div id="lcolumn">
+					<div id="linksLeft">
+						<form method="get" action="http://www.google.com/search">
+							<input name="q" type="text" class="text" size="22" /><input id="arrow" value="" type="submit" />
+							<input type="hidden" name="as_sitesearch" value="www.cs.fsu.edu" />
+						</form>
+					</div>
+					<div><img src="images/calendar.gif" alt="Calendar of Events" /></div>
+					<div class="lcolumn_bg">
+						<ul class="calendar"><li>August 20<br />
+<a href="/site/calendar.php?id=44">Graduate Student Orientation (Mandatory for TA/RA)</a></li>
+<li>August 23<br />
+<a href="/site/calendar.php?id=35">Fall Semester Begins</a></li>
+<li>August 25<br />
+<a href="/site/calendar.php?id=45">Fall 2010 Fellowship Workshop Schedule Posted</a></li>
+<li>September 6<br />
+<a href="/site/calendar.php?id=36">Labor Day (No Classes)</a></li>
+</ul><div class="viewMore"><a href="site/calendar.php">View full calendar...</a></div>					</div>
+					<div class="lcolumn_bottom"></div>
+					<div><img src="images/news.gif" alt="News and Announcements" usemap="news_map" border="0" /></div>
+						<map name="news_map" id="news_map">
+						   <area shape="rect" coords="207, 5, 240, 22" href="/site/rss.php" alt="RSS Feed" />
+						</map>
+					<div class="lcolumn_bg">
+						<ul class="calendar"><li>2010-03-30<br /><a href="/site/news.php?id=58">$1.2M Grant awarded to Dr. Whalley and Dr. Tyson</a></li>
+<li>2010-03-30<br /><a href="/site/news.php?id=59">Three recent FSU CS graduates earn the highly competitive NSF Career Award!</a></li>
+<li>2010-02-08<br /><a href="/site/news.php?id=57">Workshop for IASP on Mon, Feb 15 at 2:00pm</a></li>
+<li>2010-01-28<br /><a href="/site/news.php?id=56">Harris Scholarship Application Deadline Feb 19</a></li>
+<li>2010-01-22<br /><a href="/site/news.php?id=55">DOD Scholarship application deadlines for 2010</a></li>
+<li>2009-11-23<br /><a href="/site/news.php?id=54">Piyush Kumar receives the AFOSR YIP award</a></li>
+</ul><div class="viewMore"><a href="site/news.php">View more news...</a></div>					</div>
+					<div class="lcolumn_bottom"></div>
+					<div><img src="images/recognitions.gif" alt="Student Recognitions" /></div>
+					<div class="lcolumn_bg">
+						<ul class="calendar"><li>2010-05-07<br /><a href="/site/recognitions.php?id=32">2010 Outstanding Teaching Assistant Awards</a></li>
+<li>2010-05-07<br /><a href="/site/recognitions.php?id=33">Graduate Conference Winners and Student publication recognition</a></li>
+<li>2010-05-07<br /><a href="/site/recognitions.php?id=34">Fall 2009 and Spring 2010 ACM Programming Contest Results</a></li>
+<li>2010-05-07<br /><a href="/site/recognitions.php?id=35">Student Career and Award Recognitions/Scholarships Recognition</a></li>
+<li>2010-05-07<br /><a href="/site/recognitions.php?id=36">2010 Certificates in InfoSec</a></li>
+</ul><div class="viewMore"><a href="site/recognitions.php">View more students...</a></div>					</div>
+					<div class="lcolumn_bottom"></div>
+				</div>
+				<div id="rcolumn">
+					<div id="mainnav">
+						<ul>
+							<li>
+								<a href="prospective/" onmouseover="changeImages('prospective_link', 'prospective_link-over.gif'); return true;"
+									onmouseout="changeImages('prospective_link', 'prospective_link.gif'); return true;">
+									<img name="prospective_link" src="images/prospective_link.gif" border="0" alt="Prospective Students" /></a></li>
+							<li>
+								<a href="current/" onmouseover="changeImages('current_link', 'current_link-over.gif'); return true;"
+									onmouseout="changeImages('current_link', 'current_link.gif'); return true;">
+									<img name="current_link" src="images/current_link.gif" border="0" alt="" /></a></li>
+							<li>
+								<a href="faculty/" onmouseover="changeImages('faculty_link', 'faculty_link-over.gif'); return true;"
+									onmouseout="changeImages('faculty_link', 'faculty_link.gif'); return true;">
+									<img name="faculty_link" src="images/faculty_link.gif" border="0" alt="" /></a></li>
+							<li>
+								<a href="research/" onmouseover="changeImages('research_link', 'research_link-over.gif'); return true;"
+									onmouseout="changeImages('research_link', 'research_link.gif'); return true;">
+									<img name="research_link" src="images/research_link.gif" border="0" alt="" /></a></li>
+							<li>
+									<a href="alumni/" onmouseover="changeImages('alumni_link', 'alumni_link-over.gif'); return true;"
+                  onmouseout="changeImages('alumni_link', 'alumni_link.gif'); return true;">
+                  <img name="alumni_link" src="images/alumni_link.gif" border="0" alt="" /></a></li>
+
+							<li>
+								<a href="resources" onmouseover="changeImages('resources_link', 'resources_link-over.gif'); return true;"
+									onmouseout="changeImages('resources_link', 'resources_link.gif'); return true;">
+									<img name="resources_link" src="images/resources_link.gif" border="0" alt="" /></a></li>
+						</ul>
+						<div id="links-right"></div>
+					</div>
+					<div>
+
+						<div style="float:left"><a href="/prospective/undergrad"><img border="0" src="/images/compbio_spot.jpg" alt="Program in Computational Biology" /></a></div>
+						<div style="float:left"><a href="/prospective/undergrad"><img border="0" width=500 src="/images/computer_criminology.jpg" alt="Program in Computer Criminology" /></a></div>
+						            <div style="float: left; background-color: white; width: 500px; border-right: gray 0px solid; padding: 1px 0px 0px 0px;"></div>
+  					<div style="float:left"><a href="http://www.facebook.com/pages/Tallahassee-FL/Florida-State-Computer-Science/125591737463567"><img src="/images/facebook_ad.jpg" /></a></div> 
+						<div style="float: left; background-color: white; width: 500px; border-right: gray 0px solid; padding: 1px 0px 0px 0px;"></div>
+						<div style="float:left"><a href="/prospective/undergrad"><img src="/images/ba_revised.jpg" /></a></div> 
+
+
+						
+						<div style="float: left; background-color: white; width: 491px; border-right: gray 1px solid; padding: 5px 5px 5px 5px;"> 
+						<!-- Main Content -------------------------->
+						<table border=1> <!--bordercolor="#efefef" bordercolorlight="#f5f5f5"  bgcolor="#e5e5e5"> -->
+						<tr><td><h1>
+						<a href="http://www.cs.fsu.edu/scholarships/index.php">Updated Scholarship and Fellowship opportunities page</a></h1>
+            <table><td><img width=60 height=60 src="Scholarship.gif"/></td><td>For all undergraduate, graduate, domestic, and international students.</td></table>
+						</td></tr>		  
+            </table> 
+            							
+						<table border=1><tr><td><h1>
+						<a href="http://www.cs.fsu.edu/prospective/cs_career_stats.php">New career statistics show bright future for computer science graduates</a>
+						</h1>						  
+              <ul><li> 4 times as many new jobs in computing as in all other
+               areas of engineering combined </li>
+             <li> stupendous shortage of qualified graduates in CS</li>
+             <li> CS is the only STEM discipline where demand for graduates exceeds supply </li>
+             </ul>
+            </td></tr></table> 					
+						<div style="float:left; padding: 5px 10px 5px 0;"><img src="/images/whalley.jpg" alt="David Whalley"  /><p style="text-align: center; margin: 5px 0 0 0; font-weight: bold; font-size: 75%">David Whalley</p></div>
+						
+						
+						<h4 class="title">Message from the Chair</h4>
+						<p>Welcome to the Department of Computer Science at Florida State University.
+							Our mission is twofold.  One goal is to provide students with the
+							fundamental knowledge and problem-solving skills in Computer Science
+							required for a fulfilling career.  The other goal is to create and
+							disseminate knowledge to improve computer science research, education,
+							and practice.</p>
+							
+							<p>We have a vibrant and growing department that has changed substantially
+							in recent years in many ways.  The number of faculty has significantly increased in the 
+							last 15 years and the department now has 24 faculty members. 
+							Our department offers a bachelor's degree in CS, three
+							tracks for the master's degree in CS, and continues to
+							offer the PhD degree in CS as well.  Through a joint effort
+							between the FSU Biology and Computer Science departments,
+							FSU is now one of the few universities in the country
+							offering a bachelor's degree in Computational Biology.
+							We also have created an interdisciplinary bachelor's degree 
+							in Computer Criminology by working with the College of
+							Criminology and Criminal Justice.
+							Our research funding and the number of research assistants 
+							has significantly increased in recent years.   Many of our faculty are internationally recognized,
+							hold distinguished positions on editorial boards and conference committees,
+							and with their students are publishing innovative research in very
+							prestigious conferences and journals.</p>
+							
+							<p>I encourage you to explore our department through our web pages or in
+							person.  You will find both faculty and students who are striving for
+							excellence in both Computer Science education and research.</p>
+						</div>
+					</div>
+				</div>
+				<div id="bottom">
+						<table cellpadding="2" cellspacing="2" width="100%"><tr><td><h2><a href="prospective/">Prospective Students</a></h2><ul><li><a href="prospective/undergrad/">Undergraduate Computer Science</a></li><li><a href="prospective/undergrad/">Undergraduate Computational Biology</a></li><li><a href="prospective/undergrad/">Undergraduate Computer Criminology</a></li><li><a href="prospective/grad/">Graduate Program</a></li></ul></td><td><h2><a href="current/">Current Students</a></h2><ul><li><a href="current/undergrad/">Undergraduate Computer Science</a></li><li><a href="current/compbio/">Undergraduate Computational Biology</a></li><li><a href="current/compcrime/">Undergraduate Computer Criminology</a></li><li><a href="current/grad/">Graduate Program</a></li><li><a href="http://service.cs.fsu.edu/">Computer Courses for Non-majors</a></li><li><a href="http://apps.oti.fsu.edu/RegistrarCourseLookup/SearchResults?requestType=PUBLIC&amp;courseNumber=&amp;term=20069&amp;department=1166Computer+Science&amp;level=&amp;location=0100FSU+Main+Campus&amp;specialProgram=-9999&amp;beginningTime=&amp;endingTime=&amp;searchCriteria=-9999&amp;criteriaDesc=">Course Offerings</a></li><li><a href="http://www.cs.fsu.edu/scholarships/index.php">Student Scholarship/Fellowship Opportunities</a></li><li><a href="http://www.cs.fsu.edu/current/coursechange.php">Recent Course Changes</a></li><li><a href="http://acm.cs.fsu.edu/">ACM</a></li><li><a href="http://www.cs.fsu.edu/~aftyson/FSU_UPE/">FSU UPE Chapter</a></li></ul></td><td><h2><a href="faculty/">People</a></h2><ul><li><a href="http://www.cs.fsu.edu/site/contact.php">Contact Information</a></li><li><a href="faculty/index.php">Faculty Directory</a></li><li><a href="faculty/map.php">Faculty Office Locations</a></li><li><a href="faculty/staff.php">Staff Directory</a></li></ul></td><td><h2><a href="research/">Research</a></h2><ul><li><a href="research/reports.php">Technical Reports</a></li><li><a href="/site/extern.php?url=/research/funding/current/currentindex.cgi">Current Research Funding</a></li><li><a href="/site/extern.php?url=/research/funding/completed/completedindex.cgi">Recently Completed Funding</a></li></ul></td><td><h2><a href="alumni/">Alumni</a></h2><ul><li><a href="alumni/">Alumni Registry</a></li><li><a href="alumni/?class=U">Undergraduate Alumni Registry</a></li><li><a href="alumni/?class=G">Graduate Alumni Registry</a></li><li><a href="alumni/newsletter.php">CS Newsletters</a></li><li><a href="alumni/sponsors.php">Department Sponsors</a></li><li><a href="http://www.cs.fsu.edu/site/extern.php?url=/alumni/graduated.html">MS and PhD Graduates</a></li><li><a href="http://www.cs.fsu.edu/people/msgrads.html">Graduates prior to 2004</a></li></ul></td><td style="border-right:0;"><h2><a href="resources/">Resources &amp; Forms</a></h2><ul><li><a href="resources/employment/">Employment</a></li><li><a href="http://www.cs.fsu.edu/~liux/colloq/">Colloquium</a></li><li><a href="http://system.cs.fsu.edu/">Systems Group</a></li></ul></td></tr></table>
+				</div>
+				<div id="bottom-box"></div>
+			</div>
+			<!-- Begin include (footer.php) ******************************************************** -->
+	<div id="footer">
+		<div id="foot-lcolumn"><a href="http://www.fsu.edu/">FSU Home</a> | <a href="http://www.fsu.edu/misc/comments.shtml">Comments</a> | <a href="http://www.fsu.edu/misc/policy.html">Privacy Policy</a> | <a href="http://www.fsu.edu/misc/copyright.shtml">Copyright</a> | <a href="/site/feedback.php?referrer=/">Comment or Report a Problem</a></div>
+		<div id="foot-rcolumn"><a href="#top">top</a></div>
+	</div>
+<!-- End include *********************************************************************** -->
+	    </div>
+	</body>
+</html>
